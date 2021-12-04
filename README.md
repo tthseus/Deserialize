@@ -106,8 +106,6 @@ __toString: uses obj as string but also can be used to read file or more than th
 
 Result
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad9ef7a-164c-4878-b318-95b1f96b42ca/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad9ef7a-164c-4878-b318-95b1f96b42ca/Untitled.png)
-
 ```bash
 root@blu3:~/laggg/php# php magic.php 
 __contruct method calling 
